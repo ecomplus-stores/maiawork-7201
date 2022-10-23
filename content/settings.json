@@ -3,12 +3,12 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "united",
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/4131-20210326_012255_0000.png",
-  "name": "Maia Work",
+  "logo": "/img/uploads/20210326_012105_0.png",
+  "name": "Maia Work - Vestuário Profissional",
   "short_name": "maiawork",
   "lang": "pt_br",
   "currency": "BRL",
