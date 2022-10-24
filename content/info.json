@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "title": "Entrega rápida para Recife e Região Metropolitana"
   },
   "installments": {
     "show": true,
