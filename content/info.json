@@ -2,14 +2,14 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "title": "Entrega rápida para Recife e Região Metropolitana"
+    "title": ""
   },
   "installments": {
     "show": true,
     "text": "Parcele em até 3x sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
