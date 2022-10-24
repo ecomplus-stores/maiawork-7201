@@ -5,11 +5,11 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 4x sem juros"
+    "text": "Parcele em até 3x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Primeira compra 10% de desconto utilizando o cupom bemvindomw"
+    "text": ""
   },
   "promo": {
     "show": false,
