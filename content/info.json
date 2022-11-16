@@ -6,7 +6,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros"
+    "text": "Parcele em até 6x sem juros"
   },
   "exchange": {
     "show": false,
@@ -14,6 +14,7 @@
   },
   "promo": {
     "show": false,
-    "text": ""
+    "text": "",
+    "title": "Frete grátis para Recife nas compras a partir de R$ 199,00"
   }
 }
