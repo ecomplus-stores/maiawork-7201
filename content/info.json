@@ -1,8 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "",
-    "title": "Frete grátis para todo o Brasil nas compras a partir de R$ 499,00"
+    "text": "nas compras a partir de R$ 499,00",
+    "title": "Frete grátis para todo o Brasil"
   },
   "installments": {
     "show": true,
