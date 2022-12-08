@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c6c8bac8ea9646338425dbee780391e3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.84a29e89db32d64ccde08fbc473db46e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.be5750d1825733dac8b400b803b1a86e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d707f858dd42efa46327d97970d86250.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.46619c0096cdba2df7311c008d7abbbf.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Maia Work - Vestuário Profissional",
+  "short_name": "maiawork",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "maiawork",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
