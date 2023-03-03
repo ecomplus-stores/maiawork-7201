@@ -12,14 +12,15 @@
   },
   "categories_list": {
     "featured": [
-      "/dolma?Dolmã",
+      "/outlet?Outlet",
       "/jaleco-feminino?Jaleco Feminino",
       "/jaleco-masculino?Jaleco Masculino",
       "/scrub-feminino?Scrub Feminino",
-      "/scrub-masculino?Scrub Masculino"
+      "/scrub-masculino?Scrub Masculino",
+      "/conjunto-feminino?Conjunto Feminino"
     ],
     "random": 0,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
