@@ -1,8 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "nas compras a partir de R$ 499,00",
-    "title": "Frete grátis para todo o Brasil"
+    "text": "",
+    "title": "Entregas via motoboy ou correios"
   },
   "installments": {
     "show": true,
