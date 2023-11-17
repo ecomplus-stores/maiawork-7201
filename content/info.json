@@ -2,11 +2,11 @@
   "shipping": {
     "show": true,
     "text": "",
-    "title": "Entregas via motoboy ou correios"
+    "title": "Entrega grátis para todo o Nordeste nas compras a partir de R$ 450,00"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 6x sem juros nas compras a partir de R$ 300,00"
+    "text": "Parcele em até 6x sem juros"
   },
   "exchange": {
     "show": false,
