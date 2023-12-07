@@ -18,7 +18,9 @@
       "/scrub-feminino?Scrub Feminino",
       "/scrub-masculino?Scrub Masculino",
       "/conjunto-feminino?Conjunto Feminino",
-      "/macacao-feminino?Macacão Feminino"
+      "/blazer-feminino?Blazer Feminino",
+      "/macacao-feminino?Macacão Feminino",
+      "/short-feminino?Short Feminino"
     ],
     "random": 0,
     "full_width": true
