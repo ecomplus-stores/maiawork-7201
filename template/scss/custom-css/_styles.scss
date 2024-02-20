@@ -1,1 +1,23 @@
-// Add your custom CSS here.
+.product-card .prices__value {
+  display: none
+}
+.product-card .prices span {
+  display: flex;
+  flex-direction: column
+}
+.product-card .prices__discount {
+  order: -1;
+  font-size: var(--font-size-lg)
+}
+.product-card .prices__installments {
+  display: flex;
+}
+.product-card .prices__installments:before {
+  content: 'ou \00a0'
+}
+.product-card .prices__installments span {
+  padding-left: 5px
+}
+#product-actions .prices__discount span:after {
+  content: '(10%OFF)'
+}
