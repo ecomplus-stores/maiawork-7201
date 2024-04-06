@@ -2,7 +2,7 @@
   "shipping": {
     "show": true,
     "text": "",
-    "title": "Entrega grátis para todo o Nordeste nas compras a partir de R$ 450,00"
+    "title": "Entrega grátis para todo o Nordeste nas compras a partir de R$ 350"
   },
   "installments": {
     "show": true,
@@ -15,6 +15,6 @@
   "promo": {
     "show": true,
     "text": "",
-    "title": "Frete grátis para todo o Brasil nas compras a partir de R$ 600,00"
+    "title": "Frete grátis para todo o Brasil nas compras a partir de R$ 500,00"
   }
 }
