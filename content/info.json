@@ -10,7 +10,8 @@
   },
   "exchange": {
     "show": false,
-    "text": ""
+    "text": "",
+    "title": "Primeira troca grátis"
   },
   "promo": {
     "show": true,
