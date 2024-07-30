@@ -1,1 +1,6 @@
-
+.product-card_prices .prices_discount:after {
+  content: 'com 5% de desconto'
+}
+#product-actions .prices__discount span:after {
+  content: 'com 5% de desconto'
+}
