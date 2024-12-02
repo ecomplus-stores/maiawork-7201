@@ -13,13 +13,13 @@
   },
   "menu_all_departments": false,
   "marketing_stripe": {
-    "text": "NOSSA BLACK FRIDAY ESTÁ ON ATÉ O DIA 30/11",
+    "text": "Use o cupom PRIMEIRACOMPRA e ganhe até 15% de desconto",
     "link": "",
     "background": "#413f3f",
     "color": "#ffffff"
   },
   "alphabetical_order_submenu": true,
-  "popup": "/img/uploads/esquenta-black-friday-rose-neon-story-do-instagram-banner-medio-formato-eua-horizontal-.png",
+  "popup": "",
   "name_all_departments": " ",
   "search_input": true,
   "desktop_megamenu": false,
