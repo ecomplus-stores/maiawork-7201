@@ -716,13 +716,13 @@
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/faq</loc>
+      <loc>https://maiawork.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/entrega</loc>
+      <loc>https://maiawork.com/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -764,13 +764,13 @@
     </url>
   
     <url>
-      <loc>https://maiawork.com/blog</loc>
+      <loc>https://maiawork.com/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://maiawork.com/404</loc>
+      <loc>https://maiawork.com/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
