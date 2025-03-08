@@ -1,12 +1,11 @@
 {
   "categories_list": {
     "featured": [
-      "/outlet?Outlet",
       "/jaleco-feminino?Jaleco Feminino",
       "/jaleco-masculino?Jaleco Masculino",
       "/scrub-feminino?Scrub Feminino",
       "/scrub-masculino?Scrub Masculino",
-      "/conjunto-feminino?Conjunto Feminino"
+      "/calca-feminina?Calça Feminina"
     ],
     "random": 0,
     "full_width": true
@@ -18,7 +17,7 @@
     "background": "#413f3f",
     "color": "#ffffff"
   },
-  "alphabetical_order_submenu": true,
+  "alphabetical_order_submenu": false,
   "popup": "",
   "name_all_departments": " ",
   "search_input": true,
