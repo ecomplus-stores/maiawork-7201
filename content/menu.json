@@ -1,11 +1,6 @@
 {
   "sort_categories": [
-    "outlet",
-    "jaleco-feminino",
-    "jaleco-masculino",
-    "blazer-feminino",
-    "short-feminino",
-    "macacao-feminino"
+    "outlet"
   ],
   "alphabetical_order": false,
   "phone_wpp": true,
