@@ -16,7 +16,7 @@
     "background": "#413f3f",
     "color": "#ffffff"
   },
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "popup": "",
   "name_all_departments": " ",
   "search_input": true,
