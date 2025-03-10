@@ -746,13 +746,13 @@
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/termos</loc>
+      <loc>https://maiawork.com/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/sobre-nos</loc>
+      <loc>https://maiawork.com/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -794,6 +794,12 @@
     </url>
   
     <url>
+      <loc>https://maiawork.com/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://maiawork.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -803,12 +809,6 @@
       <loc>https://maiawork.com/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
