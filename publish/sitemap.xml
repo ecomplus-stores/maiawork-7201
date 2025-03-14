@@ -704,13 +704,13 @@
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/contato</loc>
+      <loc>https://maiawork.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/entrega</loc>
+      <loc>https://maiawork.com/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -722,13 +722,13 @@
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/pagamentos</loc>
+      <loc>https://maiawork.com/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/privacidade</loc>
+      <loc>https://maiawork.com/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
