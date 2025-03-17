@@ -728,6 +728,12 @@
     </url>
   
     <url>
+      <loc>https://maiawork.com/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://maiawork.com/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -735,12 +741,6 @@
   
     <url>
       <loc>https://maiawork.com/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
