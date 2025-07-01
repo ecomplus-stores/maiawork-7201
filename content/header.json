@@ -11,13 +11,13 @@
   },
   "menu_all_departments": false,
   "marketing_stripe": {
-    "text": "Aniversário 5 anos Maia Work com até 30% de desconto",
+    "text": "Primeira compra ganhe até 15% de desconto utilizando o cupom USEMW",
     "link": "",
     "background": "#413f3f",
     "color": "#ffffff"
   },
   "alphabetical_order_submenu": true,
-  "popup": "/img/uploads/copia-de-story-para-instagram-promocao-de-aniversario.png",
+  "popup": "",
   "name_all_departments": " ",
   "search_input": true,
   "desktop_megamenu": true,
