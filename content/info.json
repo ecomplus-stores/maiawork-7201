@@ -6,12 +6,12 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 4x sem juros"
+    "text": "Parcele em até 6x sem juros"
   },
   "exchange": {
     "show": false,
     "text": "",
-    "title": ""
+    "title": "Primeira troca grátis"
   },
   "promo": {
     "show": true,
