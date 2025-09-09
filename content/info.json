@@ -9,7 +9,7 @@
     "text": "Parcele em até 6x sem juros"
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "",
     "title": "Primeira troca grátis"
   },
