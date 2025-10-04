@@ -31,6 +31,10 @@
     {
       "type": "buy-together",
       "enabled": true
+    },
+    {
+      "type": "buy-together",
+      "enabled": true
     }
   ]
 }
