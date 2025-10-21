@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.bbbed370363fe764500c4b062e83501d.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.4287b9f5e574dabcb5ededd39c410d8f.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.aab277080639ca605a2e973a94dbf05a.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.bb192e25f691518f5c8846235e88562b.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.8d2ff747221ec97019455465216bcd23.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Maia Work - Scrubs e Uniformes",
+  "short_name": "maiawork",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "maiawork",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
