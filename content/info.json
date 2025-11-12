@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "",
     "title": "Entrega grátis para todo o Nordeste nas compras a partir de R$ 349"
   },
@@ -14,7 +14,7 @@
     "title": "Primeira troca grátis"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "",
     "title": "Frete grátis para todo o Brasil nas compras a partir de R$ 499,00"
   }
