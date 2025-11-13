@@ -14,7 +14,7 @@
     "title": "Primeira troca grátis"
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "",
     "title": "Pagamento no PIX ganhe mais 5% de desconto"
   }
