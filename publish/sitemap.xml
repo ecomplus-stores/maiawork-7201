@@ -500,13 +500,13 @@
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/pagamentos</loc>
+      <loc>https://maiawork.com/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/faq</loc>
+      <loc>https://maiawork.com/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -566,13 +566,13 @@
     </url>
   
     <url>
-      <loc>https://maiawork.com/app/index</loc>
+      <loc>https://maiawork.com/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://maiawork.com/admin/index</loc>
+      <loc>https://maiawork.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
