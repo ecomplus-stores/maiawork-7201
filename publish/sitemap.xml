@@ -2,60 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://maiawork.com/jaleco-masculino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/jaleco-feminino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/scrub-masculino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/scrub-feminino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/acessorios</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/blazer-feminino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/camisa-masculina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/calca-feminina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://maiawork.com/camisa-feminina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://maiawork.com/jaleco-feminino-classic-linha-premium</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -518,6 +464,60 @@
     </url>
   
     <url>
+      <loc>https://maiawork.com/jaleco-masculino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://maiawork.com/jaleco-feminino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://maiawork.com/scrub-masculino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://maiawork.com/scrub-feminino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://maiawork.com/acessorios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://maiawork.com/blazer-feminino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://maiawork.com/camisa-masculina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://maiawork.com/calca-feminina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://maiawork.com/camisa-feminina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://maiawork.com/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -530,13 +530,13 @@
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/pagamentos</loc>
+      <loc>https://maiawork.com/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://maiawork.com/pages/faq</loc>
+      <loc>https://maiawork.com/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -596,13 +596,13 @@
     </url>
   
     <url>
-      <loc>https://maiawork.com/admin/index</loc>
+      <loc>https://maiawork.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://maiawork.com/app/index</loc>
+      <loc>https://maiawork.com/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
