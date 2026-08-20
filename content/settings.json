@@ -7,19 +7,19 @@
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/20210912_192020_000034.jpg",
-  "name": "Maia Work - Scrubs e Jalecos",
+  "logo": "/img/uploads/logo-mw-scrubs-1.png",
+  "name": "MW Scrubs e Jalecos por Maia Work",
   "short_name": "maiawork",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/20210912_192020_000034.jpg",
+  "favicon": "/img/uploads/logo-mw-scrubs-1.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#413f3f",
-  "icon": "/img/uploads/20210912_192020_000034.jpg",
+  "icon": "/img/uploads/logo-mw-scrubs-1.png",
   "store_id": 4131,
   "description": "maiawork",
-  "large_icon": "/img/uploads/20210912_192020_000034.jpg"
+  "large_icon": "/img/uploads/logo-mw-scrubs-1.png"
 }
