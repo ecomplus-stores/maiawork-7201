@@ -4,7 +4,8 @@
       "/jaleco-feminino?Jaleco Feminino",
       "/jaleco-masculino?Jaleco Masculino",
       "/scrub-feminino?Scrub Feminino",
-      "/scrub-masculino?Scrub Masculino"
+      "/scrub-masculino?Scrub Masculino",
+      "/acessorios?Acessórios"
     ],
     "random": 0,
     "full_width": true
@@ -13,7 +14,7 @@
   "marketing_stripe": {
     "text": "Utilize o cupom USEMW e ganhe 10% OFF na sua primeira compra",
     "link": "",
-    "background": "#413f3f",
+    "background": "#040440",
     "color": "#ffffff"
   },
   "alphabetical_order_submenu": true,
