@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.d56ed65e8f7560595c0b403778eca6a7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.fbda09f640bec256866de6d47caded7d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.912adcf229603287b100e49a7e62f93b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.125ce2e83f57f720c41dec4d29f4988c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.adc531fc01bd778f4044618b17f3663c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "MW Scrubs e Jalecos por Maia Work",
+  "short_name": "MW Scrubs",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Da Maia Work Confecções surge a MW Scrubs e Jalecos.\nCom a mesma qualidade para oferecer Scrubs, Jalecos e Acessórios para nossos clientes,\nAgora com mais novidades. Aguardem! ",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
