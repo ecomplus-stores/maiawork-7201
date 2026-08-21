@@ -1,7 +1,7 @@
 {
   "domain": "maiawork.com",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#040466",
   "theme": {
     "bootswatch": "united",
     "custom": "clean-white"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/copia-de-logo-mw-2024.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#413f3f",
+  "secondary_color": "#d6d6d6",
   "icon": "/img/uploads/copia-de-logo-mw-2024.png",
   "store_id": 4131,
   "description": "maiawork",
