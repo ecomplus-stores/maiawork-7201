@@ -1,10 +1,10 @@
 {
   "domain": "maiawork.com",
   "currency_symbol": "R$",
-  "primary_color": "#010151",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "clean-gray"
   },
   "bg_color": "#f4f3f3",
   "logo": "/img/uploads/copia-de-logo-mw-2024.png",
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/copia-de-logo-mw-2024.png",
   "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "secondary_color": "#002068",
+  "secondary_color": "#031644",
   "icon": "/img/uploads/copia-de-logo-mw-2024.png",
   "store_id": 4131,
   "description": "Da Maia Work Confecções surge a MW Scrubs e Jalecos.\nCom a mesma qualidade para oferecer Scrubs, Jalecos e Acessórios para nossos clientes,\nAgora com mais novidades. Aguardem! ",
