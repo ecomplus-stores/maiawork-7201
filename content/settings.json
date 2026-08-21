@@ -4,22 +4,22 @@
   "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-gray"
+    "custom": "_"
   },
-  "bg_color": "#f4f3f3",
-  "logo": "/img/uploads/copia-de-logo-mw-2024.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/copia-de-logo-mw-2024-4-.png",
   "name": "MW Scrubs e Jalecos por Maia Work",
   "short_name": "MW Scrubs",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Roboto Mono",
-  "favicon": "/img/uploads/copia-de-logo-mw-2024.png",
+  "favicon": "/img/uploads/copia-de-logo-mw-2024-4-.png",
   "icons_font": "bootstrap-icons",
   "country_code": "BR",
   "secondary_color": "#031644",
-  "icon": "/img/uploads/copia-de-logo-mw-2024.png",
+  "icon": "/img/uploads/copia-de-logo-mw-2024-4-.png",
   "store_id": 4131,
   "description": "Da Maia Work Confecções surge a MW Scrubs e Jalecos.\nCom a mesma qualidade para oferecer Scrubs, Jalecos e Acessórios para nossos clientes,\nAgora com mais novidades. Aguardem! ",
-  "large_icon": "/img/uploads/copia-de-logo-mw-2024.png"
+  "large_icon": "/img/uploads/copia-de-logo-mw-2024-4-.png"
 }
