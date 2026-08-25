@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "Maia Work - Conforto e estilo no seu dia a dia",
-    "text": "Buscamos entregar conforto e estilo para o seu dia a dia no trabalho. Nossos produtos são fabricações própria por colaboradores brasileiros."
+    "title": "MW Scrubs e Jalecos - Conforto e estilo no seu dia a dia",
+    "text": "Buscamos entregar conforto e estilo para o seu dia a dia. Nossos produtos são fabricações própria por colaboradores brasileiros."
   },
   "links_1": {
     "list_pages": true,
@@ -32,8 +32,8 @@
     "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": true,
-    "hipercard": true,
+    "elo": false,
+    "hipercard": false,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
@@ -42,7 +42,7 @@
     "hiper": false,
     "mais": false,
     "pix": true,
-    "amex": true,
+    "amex": false,
     "itau": false
   },
   "credits": ""
