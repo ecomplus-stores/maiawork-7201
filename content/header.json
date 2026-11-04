@@ -13,7 +13,7 @@
   "marketing_stripe": {
     "text": "Utilize o cupom USEMW e ganhe 10% OFF na sua primeira compra",
     "link": "",
-    "background": "#040440",
+    "background": "#000000",
     "color": "#ffffff"
   },
   "alphabetical_order_submenu": true,
