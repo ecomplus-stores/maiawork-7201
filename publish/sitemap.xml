@@ -2,30 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://mwscrubs.com.br/jaleco-masculino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mwscrubs.com.br/jaleco-feminino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mwscrubs.com.br/scrub-masculino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mwscrubs.com.br/scrub-feminino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://mwscrubs.com.br/jaleco-feminino-classic-linha-satin</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -314,9 +290,27 @@
     </url>
   
     <url>
-      <loc>https://mwscrubs.com.br/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
+      <loc>https://mwscrubs.com.br/jaleco-masculino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mwscrubs.com.br/jaleco-feminino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mwscrubs.com.br/scrub-masculino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mwscrubs.com.br/scrub-feminino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -326,13 +320,19 @@
     </url>
   
     <url>
-      <loc>https://mwscrubs.com.br/pages/faq</loc>
+      <loc>https://mwscrubs.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://mwscrubs.com.br/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://mwscrubs.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -374,15 +374,15 @@
     </url>
   
     <url>
-      <loc>https://mwscrubs.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://mwscrubs.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://mwscrubs.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
